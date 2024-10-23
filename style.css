@@ -69,26 +69,12 @@ p {
   align-items: center;
   text-align: center;
 }
-.image-title-1 {
-  color: var(--dark-color);
-  font-family: var(--first-title);
-  font-size: 9vh;
-  word-spacing: 2rem;
-  text-align: start;
-}
-.image-title-2 {
+.image-title {
   color: var(--dark-color);
   font-family: var(--first-title);
   font-size: 9vh;
   word-spacing: 2rem;
   text-align: center;
-}
-.image-title-3 {
-  color: var(--dark-color);
-  font-family: var(--first-title);
-  font-size: 9vh;
-  word-spacing: 2rem;
-  text-align: end;
 }
 .image-title-desktop {
   color: var(--dark-color);
