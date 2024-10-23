@@ -3,13 +3,13 @@
 :root {
   --black-color: rgb(0, 0, 0);
   --black-alpha-color: rgba(0, 0, 0, 0.25);
-  --first-color: rgb(73, 116, 124);
+  --first-color: rgb(22, 104, 104);
   --first-title: "Pinyon Script", cursive;
-  --light-color: rgb(200, 202, 202);
-  --dark-color: rgb(13, 63, 50);
+  --light-color: rgb(210, 214, 214);
+  --dark-color: rgb(9, 56, 43);
   --hero-image: url("assets/portada.png");
   --hero-image--desktop: url("assets/portada_desktop.png");
-  --second-color: rgb(223, 206, 186);
+  --second-color: rgb(248, 237, 224);
   --text-color: rgb(60, 64, 36);
   --text: "Josefin Sans", sans-serif;
   --third-color: rgb(191, 204, 217);
@@ -72,7 +72,7 @@ p {
 .image-title {
   color: var(--dark-color);
   font-family: var(--first-title);
-  font-size: 11vh;
+  font-size: 10vh;
   word-spacing: 2.5rem;
 }
 .image-title-desktop {
