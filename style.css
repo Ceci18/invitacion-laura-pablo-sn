@@ -6,7 +6,7 @@
   --first-color: rgb(22, 104, 104);
   --first-title: "Pinyon Script", cursive;
   --light-color: rgb(210, 214, 214);
-  --dark-color: rgb(9, 56, 43);
+  --dark-color: rgb(14, 77, 59);
   --hero-image: url("assets/portada.png");
   --hero-image--desktop: url("assets/portada_desktop.png");
   --second-color: rgb(248, 237, 224);
@@ -72,7 +72,7 @@ p {
 .image-title {
   color: var(--dark-color);
   font-family: var(--first-title);
-  font-size: 10vh;
+  font-size: 9vh;
   word-spacing: 2.5rem;
 }
 .image-title-desktop {
