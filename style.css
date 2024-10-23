@@ -72,7 +72,7 @@ p {
 .image-title {
   color: var(--dark-color);
   font-family: var(--first-title);
-  font-size: 9vh;
+  font-size: 8.5vh;
   word-spacing: 2rem;
   text-align: center;
 }
@@ -255,10 +255,6 @@ body section {
   width: 70vw;
   height: 80px;
   margin-top: 50vh;
-}
-#name_mobile {
-  width: 50%;
-  display: flex;
 }
 .subtitle-section {
   font-family: var(--first-title);
