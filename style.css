@@ -69,11 +69,26 @@ p {
   align-items: center;
   text-align: center;
 }
-.image-title {
+.image-title-1 {
   color: var(--dark-color);
   font-family: var(--first-title);
   font-size: 9vh;
-  word-spacing: 2.2rem;
+  word-spacing: 2rem;
+  text-align: start;
+}
+.image-title-2 {
+  color: var(--dark-color);
+  font-family: var(--first-title);
+  font-size: 9vh;
+  word-spacing: 2rem;
+  text-align: center;
+}
+.image-title-3 {
+  color: var(--dark-color);
+  font-family: var(--first-title);
+  font-size: 9vh;
+  word-spacing: 2rem;
+  text-align: end;
 }
 .image-title-desktop {
   color: var(--dark-color);
@@ -254,6 +269,10 @@ body section {
   width: 70vw;
   height: 80px;
   margin-top: 50vh;
+}
+#name_mobile {
+  width: 50%;
+  display: flex;
 }
 .subtitle-section {
   font-family: var(--first-title);
