@@ -73,6 +73,8 @@ p {
   color: var(--dark-color);
   font-family: var(--first-title);
   font-size: 8.5vh;
+  /* height: 9vh;
+  line-height: 8.5vh; */
   word-spacing: 2rem;
   text-align: center;
 }
